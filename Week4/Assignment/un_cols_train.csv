@@ -1,0 +1,17 @@
+0,agency_name
+1,city
+2,country
+3,disposition
+4,hearing_date
+5,inspector_name
+6,mailing_address_str_name
+7,mailing_address_str_number
+8,non_us_str_code
+9,state
+10,ticket_issued_date
+11,violation_description
+12,violation_street_name
+13,violation_street_number
+14,violation_zip_code
+15,violator_name
+16,zip_code
